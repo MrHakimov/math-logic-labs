@@ -1,0 +1,5 @@
+./parser
+|-S
+[1. Ax. sch. 10] ((!(!(@a.(?b.A))))->(@a.(?b.A)))
+[2. Ax. sch. 1] ((@a.(@a.(@b.(@b.B))))->(B->(@a.(@a.(@b.(@b.B))))))
+Expression 3 is not proved.

@@ -1,0 +1,5 @@
+./parser
+|-S
+[1. Ax. A3] ((a'=b')->(a=b))
+[2. Ax. sch. 1] ((!(?a.(@b.(0=0))))->((!A)->(!(?a.(@b.(0=0))))))
+Expression 3 is not proved.

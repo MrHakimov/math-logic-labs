@@ -1,0 +1,10 @@
+./parser
+|-S
+[1. Ax. sch. 3] (((a=b)&(@a.A))->(a=b))
+[2. Ax. sch. 7] (A->((!(0=0))|A))
+[3. Ax. sch. 3] (((!A)&(@b.((!A)->(!A))))->(!A))
+[4. Ax. sch. 5] ((!B)->(B->((!B)&B)))
+[5. Ax. sch. 12] ((@a.A)->(?b.(@a.A)))
+[6. Ax. A6] ((a+b')=(a+b)')
+[7. Ax. sch. 1] ((@b.(@b.B))->(A->(@b.(@b.B))))
+Expression 8 is not proved.

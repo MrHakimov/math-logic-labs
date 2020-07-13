@@ -1,0 +1,7 @@
+./parser
+|-S
+[1. Ax. A5] ((a+0)=a)
+[2. Ax. sch. 1] (((a+0)=a)->((!(?b.(!(?a.(?a.(!(a=a)))))))->((a+0)=a)))
+[3. M.P. 1, 2] ((!(?b.(!(?a.(?a.(!(a=a)))))))->((a+0)=a))
+[4. Ax. sch. 4] (((!(a=0))&(?b.A))->(?b.A))
+Expression 5: variable a occurs free in ?@-rule.

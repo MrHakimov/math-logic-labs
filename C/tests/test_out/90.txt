@@ -1,0 +1,7 @@
+./parser
+|-S
+[1. Ax. A6] ((a+b')=(a+b)')
+[2. Ax. sch. 8] (((?a.(@b.(@a.(!(!A)))))->(?a.(?a.(b=0'))))->(((?a.B)->(?a.(?a.(b=0'))))->(((?a.(@b.(@a.(!(!A)))))|(?a.B))->(?a.(?a.(b=0'))))))
+[3. Ax. A8] ((a*b')=((a*b)+a))
+[4. Ax. sch. 4] (((a=0)&(0=a))->(0=a))
+Expression 5: variable a occurs free in ?@-rule.
